@@ -1,4 +1,15 @@
 #!/usr/bin/env python
+# Name : Botspam v.0.1
+# Author: mirfansulaiman
+# Indonesian Backtrack Team | Kurawa In Disorder 
+# http://indonesianbacktrack.or.id
+# http://mirfansulaiman.com/
+# http://ctfs.me/
+#
+# have a bug? report to doctorgombal@gmail.com or PM at http://indonesianbacktrack.or.id/forum/user-10440.html
+#
+# Note : This tool for education only. 
+# Dont change author name !
 import requests
 from random import randint, choice
 from string import ascii_uppercase
